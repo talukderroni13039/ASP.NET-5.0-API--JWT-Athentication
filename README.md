@@ -1,4 +1,4 @@
-# JWT
+# ASP.NET Core Custom JWT Middleware
 In this article, we will learn how to setup JWT with ASP.NET core web application.Hope u know what is token why it is nessary.It is the implementation of token in .net core.
 Prerequisites
 If you're to work with the code examples discussed in this article, you should have the following installed in your system:
@@ -10,7 +10,7 @@ First of All we need following JWT library in the project
              Microsoft.AspNetCore.Authentication.JwtBearer
              System.IdentityModel.Tokens.Jwt
 
-# ASP.NET Core Custom JWT Middleware
+# JWT Middleware
 
 To configure JWT authentication in .NET Core, you have to add the modifications in the Startup.cs file inside the ConfigureServices method.
 let’s add the code to configure JWT right above the builder.Services.AddControllers() line
