@@ -1,0 +1,11 @@
+E:\JWTInCore3.1\Api\TokenConfigaration\bin\Debug\net5.0\TokenConfigaration.deps.json
+E:\JWTInCore3.1\Api\TokenConfigaration\bin\Debug\net5.0\TokenConfigaration.dll
+E:\JWTInCore3.1\Api\TokenConfigaration\bin\Debug\net5.0\ref\TokenConfigaration.dll
+E:\JWTInCore3.1\Api\TokenConfigaration\bin\Debug\net5.0\TokenConfigaration.pdb
+E:\JWTInCore3.1\Api\TokenConfigaration\obj\Debug\net5.0\TokenConfigaration.GeneratedMSBuildEditorConfig.editorconfig
+E:\JWTInCore3.1\Api\TokenConfigaration\obj\Debug\net5.0\TokenConfigaration.AssemblyInfoInputs.cache
+E:\JWTInCore3.1\Api\TokenConfigaration\obj\Debug\net5.0\TokenConfigaration.AssemblyInfo.cs
+E:\JWTInCore3.1\Api\TokenConfigaration\obj\Debug\net5.0\TokenConfigaration.csproj.CoreCompileInputs.cache
+E:\JWTInCore3.1\Api\TokenConfigaration\obj\Debug\net5.0\TokenConfigaration.dll
+E:\JWTInCore3.1\Api\TokenConfigaration\obj\Debug\net5.0\ref\TokenConfigaration.dll
+E:\JWTInCore3.1\Api\TokenConfigaration\obj\Debug\net5.0\TokenConfigaration.pdb
