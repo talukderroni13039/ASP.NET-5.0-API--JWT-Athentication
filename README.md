@@ -1,4 +1,4 @@
-# JWT Token
+# JWT
 In this article, we will learn how to setup JWT with ASP.NET core web application.Hope u know what is token why it is nessary.It is the implementation of token in .net core.
 Prerequisites
 If you're to work with the code examples discussed in this article, you should have the following installed in your system:
