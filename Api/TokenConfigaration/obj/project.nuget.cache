@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "N8q30IZ8GNXZ6T1dc3scVmI6lh9oibdJdd/F7RV2wfdANCNgGkCysTc2v1bbPrVeUVkDPOwJwMQ7i4s17szWIA==",
+  "dgSpecHash": "Jc0tz7oBlROjRTUIMS/LqzjyWz6poG8xZO1gGtgoPAx8KOHLkKVxaYevFBqk6jkCYMsNmfZCwBB+ESgdjXPfCA==",
   "success": true,
-  "projectFilePath": "E:\\JWTInCore3.1\\Api\\TokenConfigaration\\TokenConfigaration.csproj",
+  "projectFilePath": "E:\\JWTToken\\Api\\TokenConfigaration\\TokenConfigaration.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Yunus\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\5.0.5\\microsoft.aspnetcore.authentication.jwtbearer.5.0.5.nupkg.sha512",
     "C:\\Users\\Yunus\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

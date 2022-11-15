@@ -639,11 +639,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\JWTInCore3.1\\Api\\TokenApi\\TokenApi.csproj",
+      "projectUniqueName": "E:\\JWTToken\\Api\\TokenApi\\TokenApi.csproj",
       "projectName": "TokenApi",
-      "projectPath": "E:\\JWTInCore3.1\\Api\\TokenApi\\TokenApi.csproj",
+      "projectPath": "E:\\JWTToken\\Api\\TokenApi\\TokenApi.csproj",
       "packagesPath": "C:\\Users\\Yunus\\.nuget\\packages\\",
-      "outputPath": "E:\\JWTInCore3.1\\Api\\TokenApi\\obj\\",
+      "outputPath": "E:\\JWTToken\\Api\\TokenApi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Yunus\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -660,8 +660,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "E:\\JWTInCore3.1\\Api\\TokenConfigaration\\TokenConfigaration.csproj": {
-              "projectPath": "E:\\JWTInCore3.1\\Api\\TokenConfigaration\\TokenConfigaration.csproj"
+            "E:\\JWTToken\\Api\\TokenConfigaration\\TokenConfigaration.csproj": {
+              "projectPath": "E:\\JWTToken\\Api\\TokenConfigaration\\TokenConfigaration.csproj"
             }
           }
         }

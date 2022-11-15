@@ -1,8 +1,8 @@
-﻿
-using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Configuration;
 using Newtonsoft.Json;
 using TokenConfigaration;
+
 
 // For more information on enabling Web API for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
 
@@ -44,7 +44,6 @@ namespace TokenApi.Controllers
 
             //else
             //    return null;
-
 
             var token = TokenHelper.GenerateJwtToken(_configuration, "10001");
             return JsonConvert.SerializeObject(token);

@@ -436,11 +436,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\JWTInCore3.1\\Api\\TokenConfigaration\\TokenConfigaration.csproj",
+      "projectUniqueName": "E:\\JWTToken\\Api\\TokenConfigaration\\TokenConfigaration.csproj",
       "projectName": "TokenConfigaration",
-      "projectPath": "E:\\JWTInCore3.1\\Api\\TokenConfigaration\\TokenConfigaration.csproj",
+      "projectPath": "E:\\JWTToken\\Api\\TokenConfigaration\\TokenConfigaration.csproj",
       "packagesPath": "C:\\Users\\Yunus\\.nuget\\packages\\",
-      "outputPath": "E:\\JWTInCore3.1\\Api\\TokenConfigaration\\obj\\",
+      "outputPath": "E:\\JWTToken\\Api\\TokenConfigaration\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Yunus\\AppData\\Roaming\\NuGet\\NuGet.Config",
