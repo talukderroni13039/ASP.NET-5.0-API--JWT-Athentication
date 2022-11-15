@@ -24,6 +24,7 @@ This is something we would do in the Configure method inside the Startup class.T
     
 we have created  Customize Class JWTMIddleware in the Class LIbrary Project Name token Configuration so that we can use this Custom midddleware in other projects.
 and sequence should be like
+
     app.UseRouting();
     app.UseAuthentication();
     app.UseAuthorization();
@@ -37,7 +38,7 @@ We have add some global variable in appsettings.json so that we can access it fr
       "Audience": "RestaurentJWTServiceClient",
       "Subject": "RestaurentJWTServiceAccessToken",
       "Expiration": "5"
-    }
+      }
 
 This is where you should specify your secret key, which is used to sign and verify Jwt tokens.
 
