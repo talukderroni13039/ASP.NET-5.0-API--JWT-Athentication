@@ -6,6 +6,7 @@ Visual Studio 2019 (an earlier version will also work but Visual Studio 2019 is 
 .NET 3.1 Or above .NET 5.0
 
 First of All we need following JWT library in the project
+
              Microsoft.AspNetCore.Authentication.JwtBearer
              System.IdentityModel.Tokens.Jwt
 
@@ -14,7 +15,7 @@ First of All we need following JWT library in the project
 To configure JWT authentication in .NET Core, you have to add the modifications in the Startup.cs file inside the ConfigureServices method.
 let’s add the code to configure JWT right above the builder.Services.AddControllers() line
 
-    services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme).AddJwtBearerConfiguration(Configuration);
+     services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme).AddJwtBearerConfiguration(Configuration);
     
 AddJwtBearerConfiguration(Configuration) this method comes from tokenConfiguration class library from the project
 This is something we would do in the Configure method inside the Startup class.Then add the ASP.NET Core Custom JWT Middleware in the start up class.
