@@ -5,10 +5,9 @@ If you're to work with the code examples discussed in this article, you should h
 Visual Studio 2019 (an earlier version will also work but Visual Studio 2019 is preferred)
 .NET 3.1 Or above .NET 5.0
 
-
 First of All we need following JWT library in the project
-        Microsoft.AspNetCore.Authentication.JwtBearer
-        System.IdentityModel.Tokens.Jwt
+         Microsoft.AspNetCore.Authentication.JwtBearer
+         System.IdentityModel.Tokens.Jwt
 
 # ASP.NET Core Custom JWT Middleware
 
