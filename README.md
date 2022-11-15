@@ -12,13 +12,13 @@ First of All we need following JWT library in the project
 
 # JWT Middleware
 
-To configure JWT authentication in .NET Core, you have to add the modifications in the Startup.cs file inside the ConfigureServices method.
+To configure JWT authentication in .NET Core, you have to modify in the Startup.cs file inside the ConfigureServices method.
 let’s add the code to configure JWT right above the builder.Services.AddControllers() line
 
      services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme).AddJwtBearerConfiguration(Configuration);
     
 AddJwtBearerConfiguration(Configuration) this method comes from tokenConfiguration class library from the project
-This is something we would do in the Configure method inside the Startup class.Then add the ASP.NET Core Custom JWT Middleware in the start up class.
+Then add the ASP.NET Core Custom JWT Middleware in the start up class.
 
     app.UseMiddleware<JWTMiddleware>();
     
